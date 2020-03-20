@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SimpleAppModeAnime.SignUpPage">
+    <ContentPage.Content>
+        <StackLayout Margin="40,70,40,0">
+            <StackLayout Orientation="Vertical">
+                <Label Text="All signed up!" 
+                       TextColor="#ff83a8"
+                       FontSize="45"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"/>
+                <Image Source="YouAndAnother"
+                       Margin="0,50,0,30"/>
+                <Label Text="We want a comfirmation email to you  at"
+                       TextColor="Gray"
+                       HorizontalTextAlignment="Center"
+                       FontSize="17"/>
+                <Label Text="Hello@stephanieweaver.club" 
+                       TextColor="Black"
+                       HorizontalTextAlignment="Center"
+                       FontSize="17"/>
+                <Button Text="Open mail app"
+                        TextColor="White"
+                        WidthRequest="150"
+                        HeightRequest="50"
+                        Margin="0,40,0,0"
+                        BackgroundColor="#ff83a8"
+                        CornerRadius="20"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

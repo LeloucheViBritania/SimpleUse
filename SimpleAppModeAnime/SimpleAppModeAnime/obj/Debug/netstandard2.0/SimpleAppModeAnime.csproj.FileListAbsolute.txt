@@ -1,0 +1,14 @@
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\bin\Debug\netstandard2.0\SimpleAppModeAnime.deps.json
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\bin\Debug\netstandard2.0\SimpleAppModeAnime.dll
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\bin\Debug\netstandard2.0\ref\SimpleAppModeAnime.dll
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\bin\Debug\netstandard2.0\SimpleAppModeAnime.pdb
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\obj\Debug\netstandard2.0\SimpleAppModeAnime.csprojAssemblyReference.cache
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\obj\Debug\netstandard2.0\SimpleAppModeAnime.AssemblyInfoInputs.cache
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\obj\Debug\netstandard2.0\SimpleAppModeAnime.AssemblyInfo.cs
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\obj\Debug\netstandard2.0\SimpleAppModeAnime.dll
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\obj\Debug\netstandard2.0\ref\SimpleAppModeAnime.dll
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\obj\Debug\netstandard2.0\SimpleAppModeAnime.pdb
+C:\Users\Olivier Kra\source\repos\SimpleAppModeAnime\SimpleAppModeAnime\SimpleAppModeAnime\obj\Debug\netstandard2.0\SignUpPage.xaml.g.cs

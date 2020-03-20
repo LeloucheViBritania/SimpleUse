@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="SimpleAppModeAnime.MainPage">
+    <ScrollView>
+        <StackLayout Margin="40,30,40,0">
+            <StackLayout Orientation="Vertical" >
+                <StackLayout Orientation="Vertical" Spacing="-10">
+                    <Label Text="Sign up for"
+                           FontAttributes="Bold" 
+                           FontSize="45" 
+                           HorizontalOptions="CenterAndExpand"
+                           TextColor="#ff83a8"/>
+                    <Label Text="colloborativa" 
+                           FontAttributes="Bold" 
+                           FontSize="45" 
+                           HorizontalOptions="CenterAndExpand"
+                           TextColor="#ff83a8"
+                           />
+                    <Image Source="SeulPlay"
+                           HeightRequest="250" 
+                           BackgroundColor="WhiteSmoke"
+                           Margin="0,40,0,0"/>
+                    <Frame HeightRequest="40"  
+                           CornerRadius="30"
+                           BorderColor="LightGray"
+                            >
+                        <Entry Placeholder="Your email address"
+                               HeightRequest="40"
+                               Keyboard="Email"
+                               WidthRequest="250"
+                               BackgroundColor="White"
+                                TextColor="LightGray"/>
+                    </Frame>
+                    <Button Text="Get Started"
+                            TextColor="White"
+                            BackgroundColor="#ff83a8"
+                            HeightRequest="70"
+                            WidthRequest="140"
+                            Margin="0,20,0,10"
+                            CornerRadius="20"
+                            x:Name="GotoSign"
+                            Clicked="GotoSign_Clicked"/>
+                    <Label Text="Get started for free. No span or affiliate links."
+                           TextColor="Gray"
+                           FontAttributes="Bold"/>
+
+                </StackLayout>
+                
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+    
+
+</ContentPage>
